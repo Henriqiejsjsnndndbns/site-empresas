@@ -1,0 +1,228 @@
+{
+  "gerado_em": "2026-11-25",
+  "tecnica": "AIDA (Atenção, Interesse, Desejo, Ação)",
+  "base": "avaliações reais do Google Maps (nota e quantidade)",
+  "total": 20,
+  "mensagens": [
+    {
+      "lead_id": 1,
+      "nome": "La Napoletana",
+      "telefone": "(71) 3266-0308",
+      "nota": 4.4,
+      "avaliacoes": 2212,
+      "mensagem": "Oi! Tudo bem? Vi que hoje vocês estão no Instagram, mas ainda não têm um site próprio. Notei que a La Napoletana tem nota 4,4 com 2.212 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557132660308?text=Oi%21%20Tudo%20bem%3F%20Vi%20que%20hoje%20voc%C3%AAs%20est%C3%A3o%20no%20Instagram%2C%20mas%20ainda%20n%C3%A3o%20t%C3%AAm%20um%20site%20pr%C3%B3prio.%20Notei%20que%20a%20La%20Napoletana%20tem%20nota%204%2C4%20com%202.212%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/01-la-napoletana/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 2,
+      "nome": "Cantina Montanari",
+      "telefone": "(71) 3362-9530",
+      "nota": 4.3,
+      "avaliacoes": 6689,
+      "mensagem": "Oi! Tudo bem? Notei que a Cantina Montanari tem nota 4,3 com 6.689 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557133629530?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Cantina%20Montanari%20tem%20nota%204%2C3%20com%206.689%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/02-cantina-montanari/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 3,
+      "nome": "Manjare Pizzaria",
+      "telefone": "(71) 3374-6060",
+      "nota": 4.4,
+      "avaliacoes": 684,
+      "mensagem": "Oi! Tudo bem? Notei que a Manjare Pizzaria tem nota 4,4 com 684 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557133746060?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Manjare%20Pizzaria%20tem%20nota%204%2C4%20com%20684%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/03-manjare-pizzaria/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 4,
+      "nome": "Forneria do Santo",
+      "telefone": "(71) 99687-2704",
+      "nota": 4.8,
+      "avaliacoes": 138,
+      "mensagem": "Oi! Tudo bem? Vi que hoje vocês estão no Instagram, mas ainda não têm um site próprio. Notei que a Forneria do Santo tem nota 4,8 com 138 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/5571996872704?text=Oi%21%20Tudo%20bem%3F%20Vi%20que%20hoje%20voc%C3%AAs%20est%C3%A3o%20no%20Instagram%2C%20mas%20ainda%20n%C3%A3o%20t%C3%AAm%20um%20site%20pr%C3%B3prio.%20Notei%20que%20a%20Forneria%20do%20Santo%20tem%20nota%204%2C8%20com%20138%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/04-forneria-do-santo/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 5,
+      "nome": "Piacere Pizzaria",
+      "telefone": "(71) 3022-7700",
+      "nota": 4.7,
+      "avaliacoes": 173,
+      "mensagem": "Oi! Tudo bem? Notei que a Piacere Pizzaria tem nota 4,7 com 173 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557130227700?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Piacere%20Pizzaria%20tem%20nota%204%2C7%20com%20173%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/05-piacere-pizzaria/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 6,
+      "nome": "Rocca Pizzaria | Unidade Graça",
+      "telefone": "(71) 2132-1246",
+      "nota": 4.7,
+      "avaliacoes": 605,
+      "mensagem": "Oi! Tudo bem? Notei que a Rocca Pizzaria | Unidade Graça tem nota 4,7 com 605 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557121321246?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Rocca%20Pizzaria%20%7C%20Unidade%20Gra%C3%A7a%20tem%20nota%204%2C7%20com%20605%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/06-rocca-pizzaria-unidade-graca/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 7,
+      "nome": "Sagrada Pizzaria Delivery Salvador",
+      "telefone": "(71) 99138-1721",
+      "nota": 4.8,
+      "avaliacoes": 55,
+      "mensagem": "Oi! Tudo bem? Notei que a Sagrada Pizzaria Delivery Salvador tem nota 4,8 com 55 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/5571991381721?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Sagrada%20Pizzaria%20Delivery%20Salvador%20tem%20nota%204%2C8%20com%2055%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/07-sagrada-pizzaria-delivery-salvador/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 8,
+      "nome": "Recanto das Pizzas",
+      "telefone": "(71) 3356-8130",
+      "nota": 4.1,
+      "avaliacoes": 1278,
+      "mensagem": "Oi! Tudo bem? Vi que hoje vocês estão no Instagram, mas ainda não têm um site próprio. Notei que a Recanto das Pizzas tem nota 4,1 com 1.278 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557133568130?text=Oi%21%20Tudo%20bem%3F%20Vi%20que%20hoje%20voc%C3%AAs%20est%C3%A3o%20no%20Instagram%2C%20mas%20ainda%20n%C3%A3o%20t%C3%AAm%20um%20site%20pr%C3%B3prio.%20Notei%20que%20a%20Recanto%20das%20Pizzas%20tem%20nota%204%2C1%20com%201.278%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/08-recanto-das-pizzas/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 9,
+      "nome": "Pizzaria Cheiro e Sabor",
+      "telefone": "(71) 3312-5821",
+      "nota": 4.3,
+      "avaliacoes": 1566,
+      "mensagem": "Oi! Tudo bem? Notei que a Pizzaria Cheiro e Sabor tem nota 4,3 com 1.566 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557133125821?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Pizzaria%20Cheiro%20e%20Sabor%20tem%20nota%204%2C3%20com%201.566%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/09-pizzaria-cheiro-e-sabor/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 10,
+      "nome": "Buonna Pizza",
+      "telefone": "(71) 3353-1774",
+      "nota": 4.4,
+      "avaliacoes": 1095,
+      "mensagem": "Oi! Tudo bem? Vi que hoje vocês estão no Instagram, mas ainda não têm um site próprio. Notei que a Buonna Pizza tem nota 4,4 com 1.095 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557133531774?text=Oi%21%20Tudo%20bem%3F%20Vi%20que%20hoje%20voc%C3%AAs%20est%C3%A3o%20no%20Instagram%2C%20mas%20ainda%20n%C3%A3o%20t%C3%AAm%20um%20site%20pr%C3%B3prio.%20Notei%20que%20a%20Buonna%20Pizza%20tem%20nota%204%2C4%20com%201.095%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/10-buonna-pizza/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 11,
+      "nome": "Suk Lá Pizza",
+      "telefone": "(71) 99957-4393",
+      "nota": 4.8,
+      "avaliacoes": 38,
+      "mensagem": "Oi! Tudo bem? Notei que a Suk Lá Pizza tem nota 4,8 com 38 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/5571999574393?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Suk%20L%C3%A1%20Pizza%20tem%20nota%204%2C8%20com%2038%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/11-suk-la-pizza/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 12,
+      "nome": "Casa Nero | Pizzaria Salvador",
+      "telefone": "(71) 98881-0416",
+      "nota": 4.5,
+      "avaliacoes": 311,
+      "mensagem": "Oi! Tudo bem? Notei que a Casa Nero | Pizzaria Salvador tem nota 4,5 com 311 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/5571988810416?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Casa%20Nero%20%7C%20Pizzaria%20Salvador%20tem%20nota%204%2C5%20com%20311%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/12-casa-nero-pizzaria-salvador/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 13,
+      "nome": "Fabbrica Di Pizza Salvador",
+      "telefone": "(71) 3044-1144",
+      "nota": 4.1,
+      "avaliacoes": 308,
+      "mensagem": "Oi! Tudo bem? Notei que a Fabbrica Di Pizza Salvador tem nota 4,1 com 308 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557130441144?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Fabbrica%20Di%20Pizza%20Salvador%20tem%20nota%204%2C1%20com%20308%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/13-fabbrica-di-pizza-salvador/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 14,
+      "nome": "cantina delly pizza forno a lenha",
+      "telefone": "(71) 99101-9009",
+      "nota": 4.7,
+      "avaliacoes": 22,
+      "mensagem": "Oi! Tudo bem? Notei que a cantina delly pizza forno a lenha tem nota 4,7 com 22 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/5571991019009?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20cantina%20delly%20pizza%20forno%20a%20lenha%20tem%20nota%204%2C7%20com%2022%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/14-cantina-delly-pizza-forno-a-lenha/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 15,
+      "nome": "Érico Pizza",
+      "telefone": "(71) 98173-5798",
+      "nota": 4.8,
+      "avaliacoes": 244,
+      "mensagem": "Oi! Tudo bem? Notei que a Érico Pizza tem nota 4,8 com 244 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/5571981735798?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20%C3%89rico%20Pizza%20tem%20nota%204%2C8%20com%20244%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/15-erico-pizza/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 16,
+      "nome": "Pizza X",
+      "telefone": "(71) 4105-5213",
+      "nota": 4.8,
+      "avaliacoes": 194,
+      "mensagem": "Oi! Tudo bem? Notei que a Pizza X tem nota 4,8 com 194 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557141055213?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Pizza%20X%20tem%20nota%204%2C8%20com%20194%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/16-pizza-x/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 17,
+      "nome": "Pizzaria em Salvador - Viale Pizzaria",
+      "telefone": "(71) 3037-0662",
+      "nota": 4.3,
+      "avaliacoes": 170,
+      "mensagem": "Oi! Tudo bem? Notei que a Pizzaria em Salvador - Viale Pizzaria tem nota 4,3 com 170 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/557130370662?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Pizzaria%20em%20Salvador%20-%20Viale%20Pizzaria%20tem%20nota%204%2C3%20com%20170%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/17-pizzaria-em-salvador-viale-pizzaria/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 18,
+      "nome": "Pizzaria galezza",
+      "telefone": "(71) 99726-3198",
+      "nota": 4.6,
+      "avaliacoes": 256,
+      "mensagem": "Oi! Tudo bem? Notei que a Pizzaria galezza tem nota 4,6 com 256 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/5571997263198?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Pizzaria%20galezza%20tem%20nota%204%2C6%20com%20256%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/18-pizzaria-galezza/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 19,
+      "nome": "Pizzaria Massa Fina Forno a Lenha",
+      "telefone": "(71) 98511-8294",
+      "nota": 4.5,
+      "avaliacoes": 408,
+      "mensagem": "Oi! Tudo bem? Notei que a Pizzaria Massa Fina Forno a Lenha tem nota 4,5 com 408 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/5571985118294?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Pizzaria%20Massa%20Fina%20Forno%20a%20Lenha%20tem%20nota%204%2C5%20com%20408%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/19-pizzaria-massa-fina-forno-a-lenha/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    },
+    {
+      "lead_id": 20,
+      "nome": "Pizzaria Borges Delivery - massa de longa fermentação",
+      "telefone": "(71) 99273-9258",
+      "nota": 5.0,
+      "avaliacoes": 31,
+      "mensagem": "Oi! Tudo bem? Notei que a Pizzaria Borges Delivery - massa de longa fermentação tem nota 5,0 com 31 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
+      "whatsapp_link": "https://wa.me/5571992739258?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Pizzaria%20Borges%20Delivery%20-%20massa%20de%20longa%20fermenta%C3%A7%C3%A3o%20tem%20nota%205%2C0%20com%2031%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
+      "site_local": "sites/20-pizzaria-borges-delivery-massa-de-longa-fermenta/index.html",
+      "site_url_publico": "PREENCHER_APOS_DEPLOY"
+    }
+  ]
+}
