@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-25",
+  "gerado_em": "2026-11-27T00:18:57.344Z",
   "tecnica": "AIDA (Atenção, Interesse, Desejo, Ação)",
   "base": "avaliações reais do Google Maps (nota e quantidade)",
   "total": 20,
@@ -236,7 +236,7 @@
       "lead_id": 20,
       "nome": "Pizzaria Borges Delivery - massa de longa fermentação",
       "telefone": "(71) 99273-9258",
-      "nota": 5.0,
+      "nota": 5,
       "avaliacoes": 31,
       "mensagem": "Oi! Tudo bem? Notei que a Pizzaria Borges Delivery - massa de longa fermentação tem nota 5,0 com 31 avaliações no Google — isso mostra que os clientes amam a pizza de vocês 🍕. Montamos uma página pronta, com seus dados e um botão direto para o WhatsApp, pra aparecer no Google e vender mais. Posso te enviar o link e ajustar com o cardápio? É rápido e sem compromisso.",
       "whatsapp_link": "https://wa.me/5571992739258?text=Oi%21%20Tudo%20bem%3F%20Notei%20que%20a%20Pizzaria%20Borges%20Delivery%20-%20massa%20de%20longa%20fermenta%C3%A7%C3%A3o%20tem%20nota%205%2C0%20com%2031%20avalia%C3%A7%C3%B5es%20no%20Google%20%E2%80%94%20isso%20mostra%20que%20os%20clientes%20amam%20a%20pizza%20de%20voc%C3%AAs%20%F0%9F%8D%95.%20Montamos%20uma%20p%C3%A1gina%20pronta%2C%20com%20seus%20dados%20e%20um%20bot%C3%A3o%20direto%20para%20o%20WhatsApp%2C%20pra%20aparecer%20no%20Google%20e%20vender%20mais.%20Posso%20te%20enviar%20o%20link%20e%20ajustar%20com%20o%20card%C3%A1pio%3F%20%C3%89%20r%C3%A1pido%20e%20sem%20compromisso.",
@@ -245,5 +245,107 @@
       "status_deploy": "aguardando ativacao do GitHub Pages (repo privado bloqueia no plano atual)"
     }
   ],
-  "url_indice": "https://henriqiejsjsnndndbns.github.io/site-empresas/"
+  "url_indice": "https://henriqiejsjsnndndbns.github.io/site-empresas/",
+  "mensagens_barbearias": [
+    {
+      "lead_id": 21,
+      "nome": "Jack Navalha Salvador Shopping",
+      "telefone": "(71) 99999-5158",
+      "mensagem": "Olá, Jack Navalha Salvador Shopping! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/5571999995158?text=Ol%C3%A1%2C%20Jack%20Navalha%20Salvador%20Shopping!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/21-jack-navalha-salvador-shopping/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/21-jack-navalha-salvador-shopping/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    },
+    {
+      "lead_id": 23,
+      "nome": "O Fluxo Barbearia",
+      "telefone": "(71) 98712-0021",
+      "mensagem": "Olá, O Fluxo Barbearia! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/5571987120021?text=Ol%C3%A1%2C%20O%20Fluxo%20Barbearia!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/23-o-fluxo-barbearia/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/23-o-fluxo-barbearia/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    },
+    {
+      "lead_id": 24,
+      "nome": "Don Felix Barbershop",
+      "telefone": "(71) 99993-4070",
+      "mensagem": "Olá, Don Felix Barbershop! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/5571999934070?text=Ol%C3%A1%2C%20Don%20Felix%20Barbershop!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/24-don-felix-barbershop/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/24-don-felix-barbershop/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    },
+    {
+      "lead_id": 25,
+      "nome": "Barbero Club Shopping da Bahia",
+      "telefone": "(71) 99269-6064",
+      "mensagem": "Olá, Barbero Club Shopping da Bahia! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/5571992696064?text=Ol%C3%A1%2C%20Barbero%20Club%20Shopping%20da%20Bahia!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/25-barbero-club-shopping-da-bahia/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/25-barbero-club-shopping-da-bahia/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    },
+    {
+      "lead_id": 26,
+      "nome": "Farol Beach BarberShop",
+      "telefone": "(71) 99651-5121",
+      "mensagem": "Olá, Farol Beach BarberShop! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/5571996515121?text=Ol%C3%A1%2C%20Farol%20Beach%20BarberShop!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/26-farol-beach-barbershop/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/26-farol-beach-barbershop/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    },
+    {
+      "lead_id": 27,
+      "nome": "Pituba Barbershop",
+      "telefone": "(71) 98346-0767",
+      "mensagem": "Olá, Pituba Barbershop! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/5571983460767?text=Ol%C3%A1%2C%20Pituba%20Barbershop!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/27-pituba-barbershop/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/27-pituba-barbershop/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    },
+    {
+      "lead_id": 28,
+      "nome": "A (Bar)bearia",
+      "telefone": "(71) 3033-0378",
+      "mensagem": "Olá, A (Bar)bearia! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/557130330378?text=Ol%C3%A1%2C%20A%20(Bar)bearia!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/28-a-bar-bearia/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/28-a-bar-bearia/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    },
+    {
+      "lead_id": 29,
+      "nome": "Cabelo e Barba - Brotas",
+      "telefone": "(71) 3033-3148",
+      "mensagem": "Olá, Cabelo e Barba - Brotas! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/557130333148?text=Ol%C3%A1%2C%20Cabelo%20e%20Barba%20-%20Brotas!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/29-cabelo-e-barba-brotas/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/29-cabelo-e-barba-brotas/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    },
+    {
+      "lead_id": 30,
+      "nome": "Meu Barbeiro - Barbearia Pituba Salvador",
+      "telefone": "(71) 99620-1926",
+      "mensagem": "Olá, Meu Barbeiro - Barbearia Pituba Salvador! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/5571996201926?text=Ol%C3%A1%2C%20Meu%20Barbeiro%20-%20Barbearia%20Pituba%20Salvador!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/30-meu-barbeiro-barbearia-pituba-salvador/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/30-meu-barbeiro-barbearia-pituba-salvador/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    },
+    {
+      "lead_id": 31,
+      "nome": "Barbearia Salvador",
+      "telefone": "(71) 99209-1577",
+      "mensagem": "Olá, Barbearia Salvador! Vi que sua barbearia tem ótimas avaliações em Salvador, mas ainda não tem um site próprio. Criei uma página profissional com seus dados, mapa e botão direto para WhatsApp para ajudar seus clientes a agendarem mais fácil. Posso te enviar o link para você ver?",
+      "whatsapp_link": "https://wa.me/5571992091577?text=Ol%C3%A1%2C%20Barbearia%20Salvador!%20Vi%20que%20sua%20barbearia%20tem%20%C3%B3timas%20avalia%C3%A7%C3%B5es%20em%20Salvador%2C%20mas%20ainda%20n%C3%A3o%20tem%20um%20site%20pr%C3%B3prio.%20Criei%20uma%20p%C3%A1gina%20profissional%20com%20seus%20dados%2C%20mapa%20e%20bot%C3%A3o%20direto%20para%20WhatsApp%20para%20ajudar%20seus%20clientes%20a%20agendarem%20mais%20f%C3%A1cil.%20Posso%20te%20enviar%20o%20link%20para%20voc%C3%AA%20ver%3F",
+      "site_local": "sites/31-barbearia-salvador/index.html",
+      "site_url_publico": "https://henriqiejsjsnndndbns.github.io/site-empresas/sites/31-barbearia-salvador/",
+      "status_deploy": "gerado; aguardando push + ativação de deploy público"
+    }
+  ]
 }
